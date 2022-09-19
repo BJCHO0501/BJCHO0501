@@ -16,3 +16,9 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>&nbsp
 </p>
+
+
+### Stats 📝
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BJCHO0501)](https://github.com/anuraghazra/github-readme-stats)
+
