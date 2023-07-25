@@ -18,7 +18,7 @@
 </p>
 
 
-### Stats 📝
+### Stats 🔖
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BJCHO0501)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjcho1503)](https://solved.ac/bjcho1503/)
