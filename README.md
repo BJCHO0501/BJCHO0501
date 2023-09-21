@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6B66FF&height=250&section=header&text=Cho&fontColor=FFFFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6B66FF&height=250&section=header&text=Cho&fontColor=FFFFFF&fontSize=100)
 
 ### Skills 💡
 
